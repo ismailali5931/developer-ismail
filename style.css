@@ -51,6 +51,24 @@ h2 {
   width: 100%;
   padding-right: 10px;
 }
+.commit-1 {
+  width: 100%;
+  margin-left: 10px;
+}
+.communication {
+  background-image: url(images/bg-1.png);
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-size: 25%;
+}
+.commit-2 {
+  width: 100%;
+}
+.commit-2 img {
+  width: 60%;
+  margin-left: 15%;
+  margin-top: 10%;
+}
 .experience-item {
   width: 40%;
   margin-right: 5%;
